@@ -3,3 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.ipynb_checkpoints
+data_california.csv
+US_Accidents_March23.csv
