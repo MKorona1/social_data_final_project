@@ -3,7 +3,6 @@ title: Title
 layout: default
 ---
 
-   
 
 ## Rush hours being the most problematic
 
@@ -14,7 +13,6 @@ On the left we can see distributions of number of accidents thorughout hours of 
     sandbox="allow-same-origin allow-scripts"
     align="left"
     width="100%"
-    height="600"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
