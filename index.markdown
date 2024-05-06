@@ -2,6 +2,7 @@
 layout: default
 ---
 
+## Rush hours being the most problematic
 
 <img align="left" width="500" src="assets/accidents_distribution_static.png" style="padding-right: 20px">
 On the left we can see distributions of number of accidents thorughout hours of the day and days of the week. Regarding time of accidents, we can see that there are two peaks: around 7 a.m. and 4 p.m. These are rush hours, when most people are travelling to are from work, so it's self-explanatory that the probability of an accident is higher then. When we look at the distribution over the days of week, we can see that most accidents happen during working days, with a similar number of occurences every day. At the same time, there's a small peak on Fridays - maybe people are tired after a whole week of work and drive less carefully? On weekends there are much less accident - which is also quite obvious, since most people don't work on weekends, making the traffic much less intensive.
