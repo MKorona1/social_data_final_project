@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 ## Rush hours being the most problematic
 
 <img align="left" width="500" src="assets/accidents_distribution_static.png" style="padding-right: 20px">
