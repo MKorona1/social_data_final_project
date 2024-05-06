@@ -1,4 +1,5 @@
 ---
+title: Title
 layout: default
 ---
 
