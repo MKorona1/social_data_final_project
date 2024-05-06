@@ -14,7 +14,7 @@ On the left we can see distributions of number of accidents thorughout hours of 
     scrolling="no"
     seamless="seamless"
     frameborder="0"
-    style="padding-bottom: 20px">
+    style="padding-bottom: 10px">
 </iframe>
 
 Now that we saw how many accidents happen within hours of the day and days of week, let's compare distribution of accidents for every weekday. We saw that taking all data into account, most accidents happen during rush hours, but is it like that every single day? What about weekends, when we don't really have the same rush hours? Indeed, when we compare weekends with working days there is a big difference. Weekend has its own rules. Number of accidents is much more steady throughout the day (both on Saturdays and Sundays) - we don't observe such sharp peaks as during working days. Of course, similar as during the rest of the week, more accidents happen during the day than during the night. Traffic incidents are most common between 10 a.m. and 10 p.m.
