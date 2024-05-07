@@ -3,6 +3,7 @@ title: Title
 layout: default
 ---
 
+California is one of the states in the US with the largest total number of car accidents according to [World Population Review](https://worldpopulationreview.com/). It also has a largest numbeber of traffic fatalities as per [CDC](https://www.cdc.gov/nchs/pressroom/sosmap/accident_mortality/accident.htm). Even though the mortality rate per 100,000 population isn't among the highest ones, the problem still seems to be quite serious, especially that up until 2023, number of traffic fatalities was consistently increasing according to [TIMS](https://tims.berkeley.edu/summary.php#). [SafeTREC Berkely](https://safetrec.berkeley.edu/2023-safetrec-traffic-safety-facts-speeding-related-and-other-crashes) informed that, in 2021, 35% fatalities were speed-related, compared to 29% nationwide, which seems to be one of the main causes of severe car accident in California. Taking this into account, it seems strange that California state introduced their first speed cameras only at the beginning of 2024 in the trail run, according to [The New York Times](https://www.nytimes.com/2023/10/13/us/california-speed-cameras.html). In this analysis we try get insights into traffic accidents' patterns in California, taking into account factors like time and location of occurence, or weather conditions, and understand what else can be done to prevent accidents from happening.
 
 ## Rush hours being the most problematic
 
@@ -20,6 +21,8 @@ On the left we can see distributions of number of accidents thorughout hours of 
 </iframe>
 
 Now that we saw how many accidents happen within hours of the day and days of week, let's compare distribution of accidents for every weekday. We saw that taking all data into account, most accidents happen during rush hours, but is it like that every single day? What about weekends, when we don't really have the same rush hours? Indeed, when we compare weekends with working days there is a big difference. Weekend has its own rules. Number of accidents is much more steady throughout the day (both on Saturdays and Sundays) - we don't observe such sharp peaks as during working days. Of course, similar as during the rest of the week, more accidents happen during the day than during the night. Traffic incidents are most common between 10 a.m. and 10 p.m.
+
+We already know when traffic accidents usually happen - let's see what are the most problematic locations in California.
 
 
 
