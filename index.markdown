@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Why is California leading in total number of accidents and how can we prevent it?
 layout: default
 ---
 
@@ -24,12 +24,27 @@ Now that we saw how many accidents happen within hours of the day and days of we
 
 We already know when traffic accidents usually happen - let's see what are the most problematic locations in California.
 
-
-
 ## Exploring Locations of Serious Accidents in California
+
+<img align= "left" width="500" src="assets/county_counts.png" style="padding-right: 20px">
+
+
+California's diverse geography and extensive road network make it susceptible to various traffic incidents. Examining the distribution of accidents across the state provides valuable insights into patterns and potential risk factors. The southeastern side of California, particularly counties like Riverside, San Bernardino, and Imperial, exhibits a notably higher concentration of accidents, attributed to factors such as population density, transportation infrastructure, and urbanization. Kern County, located in the southern Central Valley, stands out with a relatively high number of accidents due to its strategic transportation routes, while Mono County experiences fewer accidents due to its remote and mountainous terrain. 
+
+
 California boasts diverse climates, vast geographical features, and various densely populated areas, which correspondingly influence the occurrence of traffic accidents.
 
 Understanding where serious accidents frequently occur is crucial for planning accident prevention strategies.
+
+<iframe src="assets/california_heatmap.html"
+    sandbox="allow-same-origin allow-scripts"
+    align="left"
+    width="100%"
+    height=550
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 To this end, we have created a heatmap based on California's accident data, where areas with higher severity are marked in darker colors. This heatmap reveals that serious accidents are particularly concentrated in the Los Angeles area. Notably, the Los Angeles region, with its high population density and heavy traffic, faces an increased risk of traffic accidents.
 
@@ -54,7 +69,7 @@ Moreover, this area experiences almost non-stop traffic 24 hours a day, and visi
 
 ## The Relationship Between Weather Conditions, Time of Day, and the Severity of Accidents
 
-<img align= "left" width="500" src="assets/weather condition.png" style="padding-right: 20px">
+<img align= "left" width="500" src="assets/weather_condition.png" style="padding-right: 20px">
 
 In traffic safety, weather significantly impacts driving conditions. Our analysis categorizes fifteen frequently occurring weather conditions into five major groups. This categorization helps us understand how different weather conditions influence the severity of accidents. Here are the classifications and their rationale:
 
@@ -66,20 +81,8 @@ In traffic safety, weather significantly impacts driving conditions. Our analysi
 
 Our analysis indicates that the severity of accidents at night under slippery and reduced visibility conditions tends to be relatively low. This could be due to drivers being more cautious at night or avoiding driving altogether in severe weather, thus reducing overall traffic volume. Conversely, under clear, cloudy, and rainy conditions, poor visibility at night can lead to increased distraction and higher accident severity. This observation highlights the need for enhanced safety measures and driver awareness during adverse weather conditions, especially at night.
 
-## Heatmap of counties slightly showcasing the correlation between Accidents, population density and Geographical location
-
-<img align= "left" width="500" src="assets/county_counts.png" style="padding-right: 20px">
-
-
-California's diverse geography and extensive road network make it susceptible to various traffic incidents. Examining the distribution of accidents across the state provides valuable insights into patterns and potential risk factors. The southeastern side of California, particularly counties like Riverside, San Bernardino, and Imperial, exhibits a notably higher concentration of accidents, attributed to factors such as population density, transportation infrastructure, and urbanization. Kern County, located in the southern Central Valley, stands out with a relatively high number of accidents due to its strategic transportation routes, while Mono County experiences fewer accidents due to its remote and mountainous terrain. 
-
-# Why these visualizations? 
-
-These visualizations are selected to give a thorough understanding of traffic accidents in California. They're chosen because they effectively show accident patterns, factors contributing to accidents, and areas where risks are higher. They fit well with the story we're telling because they help us explore trends in traffic accidents and understand why they happen. By looking at when and where accidents occur, as well as considering weather conditions and severity, these visualizations provide valuable insights into the complex world of traffic accidents in California.
-
-Bar charts are like snapshots of accident counts over different time frames or categories. They make it super easy to spot trends and see when accidents happen the most. On the flip side, heatmaps show where accidents are happening on a map. They're like a spotlight shining on areas with lots of accidents. Heatmaps give us a visual picture of where the problems are most severe, whereas bar charts further adds upon that picture, complementing eachother well.
 
 
 
 
-
+The code can be found on [Github](https://github.com/MKorona1/social_data_final_project/blob/main/final_notebook/explainer_notebook.ipynb).
