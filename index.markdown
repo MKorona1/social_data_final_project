@@ -87,7 +87,7 @@ Our analysis of traffic accidents in California has provided insights into accid
 **Enhanced Traffic Management During Peak Hours**:  
 Implement safety measures at 7 AM and 4 PM, including tightening speed limits and enhancing traffic monitoring, coupled with safety awareness campaigns for commuters.  
 **Addressing Geographic Risk Areas**:  
-Redesign traffic flow and improve intersections in high-incident areas like Los Angeles and the Santa Monica Freeway (I-10). Install warning systems at frequent accident points, and improve transportation infrastructure in accident-prone counties like Riverside, San Bernardino, and Imperial.  
+Redesign traffic flow and improve intersections in high severity incident areas like Los Angeles and the Santa Monica Freeway (I-10). Install warning systems at frequent accident points, and improve transportation infrastructure in accident-prone counties like Riverside, San Bernardino, and Imperial.  
 **Optimization of Measures Against Weather Conditions**:  
 Educate drivers about the risks during clear and adverse weather conditions. Promote accident prevention measures like better lighting and road signage, especially when visibility is low.  
 **Implementation and Evaluation of Speed Cameras**:  
