@@ -30,6 +30,15 @@ Understanding where serious accidents frequently occur is crucial for planning a
 
 To this end, we have created a heatmap based on California's accident data, where areas with higher severity are marked in darker colors. This heatmap reveals that serious accidents are particularly concentrated in the Los Angeles area. Notably, the Los Angeles region, with its high population density and heavy traffic, faces an increased risk of traffic accidents.
 
+<iframe src="assets/losangeles_heatmap.html"
+    sandbox="allow-same-origin allow-scripts"
+    align="left"
+    width="100%"
+    height=550
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 To further refine our analysis, we focused on data from within the city of Los Angeles, particularly identifying locations around highway entrances and exits where serious accidents frequently occur.
 
