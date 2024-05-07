@@ -81,8 +81,19 @@ In traffic safety, weather significantly impacts driving conditions. Our analysi
 
 Our analysis indicates that the severity of accidents at night under slippery and reduced visibility conditions tends to be relatively low. This could be due to drivers being more cautious at night or avoiding driving altogether in severe weather, thus reducing overall traffic volume. Conversely, under clear, cloudy, and rainy conditions, poor visibility at night can lead to increased distraction and higher accident severity. This observation highlights the need for enhanced safety measures and driver awareness during adverse weather conditions, especially at night.
 
+# conclusion
+Our analysis of traffic accidents in California has provided insights into accident patterns, geographic concentrations, and the impact of weather conditions on accident severity. Based on these findings, we propose a strategic approach to reduce statewide accidents.
 
+**Enhanced Traffic Management During Peak Hours**:  
+Implement safety measures at 7 AM and 4 PM, including tightening speed limits and enhancing traffic monitoring, coupled with safety awareness campaigns for commuters.  
+**Addressing Geographic Risk Areas**:  
+Redesign traffic flow and improve intersections in high-incident areas like Los Angeles and the Santa Monica Freeway (I-10). Install warning systems at frequent accident points, and improve transportation infrastructure in accident-prone counties like Riverside, San Bernardino, and Imperial.  
+**Optimization of Measures Against Weather Conditions**:  
+Educate drivers about the risks during clear and adverse weather conditions. Promote accident prevention measures like better lighting and road signage, especially when visibility is low.  
+**Implementation and Evaluation of Speed Cameras**:  
+Evaluate the effectiveness of the 2024 speed camera trial run. If successful, expand their deployment to other high-risk areas to address speeding, a major cause of accidents.  
 
+These streamlined recommendations aim to enhance traffic safety in California through a data-driven approach, ultimately reducing traffic accidents.
 
 
 The code can be found on [Github](https://github.com/MKorona1/social_data_final_project/blob/main/final_notebook/explainer_notebook.ipynb).
