@@ -81,7 +81,7 @@ In traffic safety, weather significantly impacts driving conditions. Our analysi
 
 Our analysis indicates that the severity of accidents at night under slippery and reduced visibility conditions tends to be relatively low. This could be due to drivers being more cautious at night or avoiding driving altogether in severe weather, thus reducing overall traffic volume. Conversely, under clear, cloudy, and rainy conditions, poor visibility at night can lead to increased distraction and higher accident severity. This observation highlights the need for enhanced safety measures and driver awareness during adverse weather conditions, especially at night.
 
-# conclusion
+# Conclusion
 Our analysis of traffic accidents in California has provided insights into accident patterns, geographic concentrations, and the impact of weather conditions on accident severity. Based on these findings, we propose a strategic approach to reduce statewide accidents.
 
 **Enhanced Traffic Management During Peak Hours**:  
