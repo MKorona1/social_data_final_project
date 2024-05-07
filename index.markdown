@@ -72,3 +72,5 @@ Our analysis indicates that the severity of accidents at night under slippery an
 
 
 California's diverse geography and extensive road network make it susceptible to various traffic incidents. Examining the distribution of accidents across the state provides valuable insights into patterns and potential risk factors. The southeastern side of California, particularly counties like Riverside, San Bernardino, and Imperial, exhibits a notably higher concentration of accidents, attributed to factors such as population density, transportation infrastructure, and urbanization. Kern County, located in the southern Central Valley, stands out with a relatively high number of accidents due to its strategic transportation routes, while Mono County experiences fewer accidents due to its remote and mountainous terrain. 
+
+
