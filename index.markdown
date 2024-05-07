@@ -42,7 +42,7 @@ Moreover, this area experiences almost non-stop traffic 24 hours a day, and visi
 
 ## The Relationship Between Weather Conditions, Time of Day, and the Severity of Accidents
 
-<img align="left" width="500" src="weather condition.png" style="padding-right: 20px">
+<img align= "middle" width="500" src="assets/weather condition.png" style="padding-right: 20px">
 
 In traffic safety, weather significantly impacts driving conditions. Our analysis categorizes fifteen frequently occurring weather conditions into five major groups. This categorization helps us understand how different weather conditions influence the severity of accidents. Here are the classifications and their rationale:
 
