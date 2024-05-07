@@ -73,4 +73,13 @@ Our analysis indicates that the severity of accidents at night under slippery an
 
 California's diverse geography and extensive road network make it susceptible to various traffic incidents. Examining the distribution of accidents across the state provides valuable insights into patterns and potential risk factors. The southeastern side of California, particularly counties like Riverside, San Bernardino, and Imperial, exhibits a notably higher concentration of accidents, attributed to factors such as population density, transportation infrastructure, and urbanization. Kern County, located in the southern Central Valley, stands out with a relatively high number of accidents due to its strategic transportation routes, while Mono County experiences fewer accidents due to its remote and mountainous terrain. 
 
+# Why these visualizations? 
+
+These visualizations are selected to give a thorough understanding of traffic accidents in California. They're chosen because they effectively show accident patterns, factors contributing to accidents, and areas where risks are higher. They fit well with the story we're telling because they help us explore trends in traffic accidents and understand why they happen. By looking at when and where accidents occur, as well as considering weather conditions and severity, these visualizations provide valuable insights into the complex world of traffic accidents in California.
+
+Bar charts are like snapshots of accident counts over different time frames or categories. They make it super easy to spot trends and see when accidents happen the most. On the flip side, heatmaps show where accidents are happening on a map. They're like a spotlight shining on areas with lots of accidents. Heatmaps give us a visual picture of where the problems are most severe, whereas bar charts further adds upon that picture, complementing eachother well.
+
+
+
+
 
